@@ -2,7 +2,7 @@
 
 ## shortest path
 
-the notebook "shortest_path_in_spoke_demo.ipynb" shows a demo of extracting shortest paths between two nodes in SPOKE graph.
+The notebook "shortest_path_in_spoke_demo.ipynb" shows a demo of extracting shortest paths between two nodes in SPOKE graph.
 
 Before running the notebook, make sure to:
 
